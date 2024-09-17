@@ -1,0 +1,6 @@
+{
+	"title": "test libray",
+	"code": "sh",
+	"index": "main.sh",
+	"description": "A test hello world package"
+}
